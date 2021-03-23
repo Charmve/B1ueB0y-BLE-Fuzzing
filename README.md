@@ -8,11 +8,11 @@
   <a href="https://github.com/Charmve"><img src="https://img.shields.io/badge/GitHub-Charmve-lightblue" alt="github"></a>
   <a href="./Code-of-Conduct.md"><img src="https://img.shields.io/badge/Licence-BSD2-green" alt="Code-of-Conduct"></a>
 </p>
-<br>
 
 # B1ueB0y-BLE-Fuzzing
 An awesome toolkit for testing the BLE device, chip and Protocol stack
 
+<br>
 
 ## Acknowledgements
 
