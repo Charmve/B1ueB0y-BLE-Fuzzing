@@ -1,6 +1,3 @@
-# B1ueB0y-BLE-Fuzzing
-An awesome toolkit for testing the BLE device, chip and Protocol stack
-
 <div align="center">
 	<img border=0 src="https://github.com/Charmve/BLE-Security-Attack-Defence/raw/master/logo.jpg" width="360">
 </div>
@@ -12,6 +9,10 @@ An awesome toolkit for testing the BLE device, chip and Protocol stack
   <a href="./Code-of-Conduct.md"><img src="https://img.shields.io/badge/Licence-BSD2-green" alt="Code-of-Conduct"></a>
 </p>
 <br>
+
+# B1ueB0y-BLE-Fuzzing
+An awesome toolkit for testing the BLE device, chip and Protocol stack
+
 
 ## Acknowledgements
 
