@@ -17,3 +17,9 @@ An awesome toolkit for testing the BLE device, chip and Protocol stack
 ## Acknowledgements
 
 @[ZJ-RT-Thread-NIMBLE-NORDIC](https://github.com/ZJ-TEK/ZJ-RT-Thread-NIMBLE-NORDIC) @[Apache NimBLE](https://github.com/apache/mynewt-nimble) @[RT-Thread](https://github.com/RT-Thread/rt-thread) 
+
+<br>
+<br>
+<p align="center">Feel free to ask any questions, open a PR if you feel something can be done differently!</p>
+<h2 align="center">🌟Star this repository🌟</h2>
+<p align="center">Created by <a href="https://github.com/Charmve">Charmve</a> & <a href="https://github.com/MaiweiAI">maiwei.ai</a> Community | Updating</p>
